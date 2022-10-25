@@ -2,7 +2,7 @@ infoBtn = document.querySelectorAll('.info');
 targetDiv = document.querySelectorAll('.projectDetail');
 
 targetDiv[0].style.display ='none';
-targetDiv[1].style.display ='block';
+targetDiv[1].style.display ='none';
 targetDiv[2].style.display ='none';
 targetDiv[3].style.display ='none';
 
